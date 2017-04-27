@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FarmObjectInformation>
+    <AnimalSeedInfomation>
+        <farmObjectType>1</farmObjectType>
+        <!--ROSE-->
+        <price>5</price>
+        <name>Rose</name>
+        <harvestType>AUTO</harvestType>
+        <costOfCare>10</costOfCare>
+        <lifeTime>60</lifeTime><!--2 months-->
+        <matureTime>60</matureTime><!--2 months-->
+        <profit>25</profit>
+        <timeBetwenTwoHarvest>0</timeBetwenTwoHarvest>
+        <unitMesurement>100 flowers</unitMesurement>
+    </AnimalSeedInfomation>
+
+    <AnimalSeedInfomation>
+        <farmObjectType>2</farmObjectType>
+        <!--WHEAT-->
+        <price>0.5</price>
+        <productivity>20</productivity>
+        <name>Rose</name>
+        <harvestType>AUTO</harvestType>
+        <costOfCare>10</costOfCare>
+        <lifeTime>60</lifeTime><!--2 months-->
+        <matureTime>60</matureTime><!--2 months-->
+        <profit>3</profit>
+        <timeBetwenTwoHarvest>0</timeBetwenTwoHarvest>
+        <unitMesurement>kg</unitMesurement>
+    </AnimalSeedInfomation>
+
+    <AnimalSeedInfomation>
+        <farmObjectType>3</farmObjectType>
+        <!--ORIENTALILY-->
+        <price>2</price>
+        <name>Oriental lily</name>
+        <harvestType>AUTO</harvestType>
+        <costOfCare>3</costOfCare>
+        <lifeTime>60</lifeTime><!--2 months-->
+        <matureTime>60</matureTime><!--2 months-->
+        <profit>12</profit>
+        <timeBetwenTwoHarvest>0</timeBetwenTwoHarvest>
+        <unitMesurement>20 seeds</unitMesurement>
+    </AnimalSeedInfomation>
+
+    <AnimalSeedInfomation>
+        <farmObjectType>4</farmObjectType>
+        <!--SUGARCANE-->
+        <price>3</price>
+        <name>Sugar Cane</name>
+        <harvestType>AUTO</harvestType>
+        <costOfCare>2</costOfCare>
+        <lifeTime>180</lifeTime><!--6 months-->
+        <matureTime>180</matureTime><!--6 months-->
+        <profit>10</profit>
+        <timeBetwenTwoHarvest>0</timeBetwenTwoHarvest>
+        <unitMesurement>stalk</unitMesurement>
+    </AnimalSeedInfomation>
+
+    <AnimalSeedInfomation>
+        <farmObjectType>5</farmObjectType>
+        <!--CHICKEN-->
+        <price>1</price>
+        <name>Chicken</name>
+        <harvestType>MANUAL</harvestType>
+        <costOfCare>2</costOfCare>
+        <lifeTime>180</lifeTime><!--6 months-->
+        <matureTime>60</matureTime><!--2 months-->
+        <timeBetwenTwoHarvest>1</timeBetwenTwoHarvest>
+        <unitMesurement>chicken</unitMesurement>
+    </AnimalSeedInfomation>
+
+    <AnimalSeedInfomation>
+        <farmObjectType>6</farmObjectType>
+        <!--SHEEP-->
+        <price>100</price>
+        <name>Sheep</name>
+        <harvestType>MANUAL</harvestType>
+        <costOfCare>25</costOfCare>
+        <lifeTime>1460</lifeTime><!--4 years-->
+        <matureTime>180</matureTime><!--6 months-->
+        <timeBetwenTwoHarvest>1</timeBetwenTwoHarvest>
+        <unitMesurement>sheep</unitMesurement><!--1 month-->
+        <productivity>10</productivity>
+    </AnimalSeedInfomation>
+
+    <AnimalSeedInfomation>
+        <farmObjectType>7</farmObjectType>
+        <!--COW-->
+        <price>500</price>
+        <name>Cow</name>
+        <harvestType>MANUAL</harvestType>
+        <costOfCare>25</costOfCare>
+        <lifeTime>1095</lifeTime><!--3 years-->
+        <matureTime>365</matureTime><!--12 months-->
+        <timeBetwenTwoHarvest>1.2</timeBetwenTwoHarvest><!--1 month-->
+        <productivity>10</productivity>
+        <unitMesurement>cow</unitMesurement>
+    </AnimalSeedInfomation>
+</FarmObjectInformation> 
